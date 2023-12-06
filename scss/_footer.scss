@@ -1,0 +1,26 @@
+.footer{
+    background: #002529;
+    padding-top: 48px;
+}
+.footer__inner{
+    display: flex;
+}
+.footer__list{
+    display: flex;
+}
+.footer__item{
+    margin-left: 40px;
+    color: white;
+    margin-top: 30px;
+}
+.footer__box1{
+    margin-left: 121px;
+}
+.footer__box1 p{
+    color: #FFF;
+font-family: Livvic;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 25px; /* 166.667% */
+}
